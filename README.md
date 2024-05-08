@@ -48,6 +48,6 @@
 
 ###
 
-<p align="left">My information 🗃️ : https://github.com/DeepXx86/My-Information/blob/main/MyInformation.bf</p>
+<p align="left">My information 🗃️ : https://github.com/DeepXx86/My-Information</p>
 
 ###
